@@ -28,3 +28,6 @@ The objective of this project was to analyze existing file and directory permiss
 
 ## Outcome
 After auditing and updating the permissions, sensitive files and directories were properly secured. Unauthorized modification rights were removed, improving overall system security and enforcing controlled access to project data.
+## Project Artifact
+
+[View Full Report](File_permissions_Linux.pdf)
