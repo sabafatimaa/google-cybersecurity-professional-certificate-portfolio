@@ -113,9 +113,11 @@ Through completing this journal, I developed practical knowledge of:
 
 ---
 
-## Report
+##  Report
 
-The complete incident investigation journal is available here:
+The complete Incident Handlers Journal can be viewed here:
+
+ **[Incident_Handler's_Journal.pdf](./Incident_Handler's_Journal.pdf)**
 
 
 ---
