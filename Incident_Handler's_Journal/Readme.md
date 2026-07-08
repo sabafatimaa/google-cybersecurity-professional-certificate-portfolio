@@ -114,7 +114,7 @@ Through completing this journal, I developed practical knowledge of:
 ---
 ## Report
 
- **[Open Incident Handler's Journal (PDF)](./Incident_handler's_journal.pdf)**
+ [Incident Handler's Journal](./Incident_Handlers_Journal.pdf)
 
 ---
 
