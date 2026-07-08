@@ -112,10 +112,9 @@ Through completing this journal, I developed practical knowledge of:
 - Security awareness recommendations
 
 ---
+## Report
 
-## Documentation
-
- **[Open Incident Handler's Journal (PDF)](./Incident_Handler's_Journal.pdf)**
+ **[Open Incident Handler's Journal (PDF)](./Incident_handler's_journal.pdf)**
 
 ---
 
