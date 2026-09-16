@@ -31,3 +31,8 @@ After auditing and updating the permissions, sensitive files and directories wer
 ## Project Artifact
 
 [View Full Report](File_permissions_Linux.pdf)
+
+## Author
+Saba Fatima
+
+Aspiring Cybersecurity Analyst | SOC Analyst | Incident Response | Threat Detection | Network Security | Log Analysis
