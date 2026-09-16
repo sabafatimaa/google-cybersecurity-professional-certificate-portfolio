@@ -22,8 +22,7 @@ Using the **National Institute of Standards and Technology Cybersecurity Framewo
 * **Enhance Monitoring & Infrastructure:** Install an Intrusion Detection System (IDS), adopt a centralized password management system, and establish a formal asset inventory and legacy system maintenance schedule.
 
 ## Documentation
-
- **[Controls and Compliance Checklist](./Controls-and-Compliance-Checklist.pdf)**
+ **[Controls and Compliance Checklist](./Controls_and_Compliance_Checklist.pdf)**
 
 ## Author
 Saba Fatima
