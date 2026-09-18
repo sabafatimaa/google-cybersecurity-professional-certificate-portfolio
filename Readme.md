@@ -39,7 +39,7 @@ I'm a cybersecurity enthusiast transitioning into the field, with hands-on exper
 | 2 | [Incident Report Analysis](./Incident_Report_Analysis/Readme.md) | Reviewed and classified a security incident report to determine severity, impact, and appropriate escalation. | Incident Report Templates, NIST 800-61 |
 | 3 | [Incident Handler's Journal](./Incident_Handler's_Journal/Readme.md) | Documented a mock security incident from detection to resolution, following the incident response lifecycle. | Incident Response Lifecycle, Documentation |
 | 4 | [Vulnerability Assessment Report](./VulnerabilityAssessmentReport/Readme.md) | Assessed a system for vulnerabilities, prioritized findings by risk, and recommended remediation steps. | Vulnerability Scanning, Risk Prioritization |
-| 5 | [Linux File Permissions](./Linux_File_Permission/Readme.md) | Applied and audited Linux file permissions to enforce least privilege on a simulated system. | Linux CLI, chmod/chown |
+| 5 | [Linux File Permissions](./Linux_File_Permission/README.md) | Applied and audited Linux file permissions to enforce least privilege on a simulated system. | Linux CLI, chmod/chown |
 | 6 | [Automate Cybersecurity Tasks with Python](./AutomateCyberSecurityTaskWithPython/Readme.md) | Wrote Python scripts to automate a repetitive security task, reducing manual effort and human error. | Python |
 
 *(Click any project name for the full write-up, screenshots, and files.)*
