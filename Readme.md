@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a cybersecurity enthusiast transitioning into the field, with hands-on experience gained through the Google Cybersecurity Professional Certificate. I'm passionate about protecting networks, responding to incidents, and supporting organizations — including public sector and government agencies — that rely on strong security to serve the public safely. This repository is a collection of hands-on projects I completed to build and demonstrate practical cybersecurity skills.
+I'm a cybersecurity enthusiast transitioning into the field, with hands-on experience gained through the Google Cybersecurity Professional Certificate. I'm passionate about protecting networks, responding to incidents, and helping organizations safeguard their data and systems. This repository is a collection of hands-on projects I completed to build and demonstrate practical cybersecurity skills.
 
 ---
 
