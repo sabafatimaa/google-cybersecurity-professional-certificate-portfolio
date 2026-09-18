@@ -15,7 +15,7 @@ I'm a cybersecurity enthusiast transitioning into the field, with hands-on exper
 
 - **Google Cybersecurity Professional Certificate** — Coursera
   
-  [Google Cybersecurity Professional Certificate ](https://www.coursera.org/account/accomplishments/professional-cert/BO19O2T41OE0)
+  [Google Cybersecurity Professional Certificate ](https://www.coursera.org/account/accomplishments/specialization/certificate/BO19O2T41OE0)
 
 ---
 
