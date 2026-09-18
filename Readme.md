@@ -11,7 +11,7 @@ I'm a cybersecurity enthusiast transitioning into the field, with hands-on exper
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 - **Google Cybersecurity Professional Certificate** — Coursera
   
