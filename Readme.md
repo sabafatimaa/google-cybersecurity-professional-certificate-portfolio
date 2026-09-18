@@ -1,8 +1,7 @@
-# Hi, I'm Saba Fatima
+# Saba Fatima
+### Cybersecurity Portfolio | Google Cybersecurity Professional Certificate
 
-**Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate**
-
-sabaf2tima@gmail.com | www.linkedin.com/in/sabafatimamin
+ [LinkedIn](www.linkedin.com/in/sabafatimamin) | [Email](sabaf2tima@gmail.com)
 
 ---
 
@@ -20,7 +19,7 @@ I'm a cybersecurity enthusiast transitioning into the field, with hands-on exper
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 | Category | Skills |
 |---|---|
@@ -32,22 +31,27 @@ I'm a cybersecurity enthusiast transitioning into the field, with hands-on exper
 
 ---
 
-## 📁 Projects
+##  Projects
 
 | # | Project | Scenario | Tools |
 |---|---|---|---|
-| 1 | [Play It Safe: Manage Security Risks](./Play%20It%20Safe%3A%20Manage%20Security%20Risks/README.md) | Internal IT audit for a retail company, assessing controls against NIST CSF, PCI DSS, and GDPR to identify security and compliance gaps. | Excel, NIST CSF, Risk Register |
-| 2 | [Incident Report Analysis](./Incident_Report_Analysis/README.md) | Reviewed and classified a security incident report to determine severity, impact, and appropriate escalation. | Incident Report Templates, NIST 800-61 |
-| 3 | [Incident Handler's Journal](./Incident_Handler's_Journal/README.md) | Documented a mock security incident from detection to resolution, following the incident response lifecycle. | Incident Response Lifecycle, Documentation |
-| 4 | [Vulnerability Assessment Report](./VulnerabilityAssessmentReport/README.md) | Assessed a system for vulnerabilities, prioritized findings by risk, and recommended remediation steps. | Vulnerability Scanning, Risk Prioritization |
-| 5 | [Linux File Permissions](./Linux_File_Permission/README.md) | Applied and audited Linux file permissions to enforce least privilege on a simulated system. | Linux CLI, chmod/chown |
-| 6 | [Automate Cybersecurity Tasks with Python](./AutomateCyberSecurityTaskWithPython/README.md) | Wrote Python scripts to automate a repetitive security task, reducing manual effort and human error. | Python |
+| 1 | [Play It Safe: Manage Security Risks](./Play%20It%20Safe%3A%20Manage%20Security%20Risks/Readme.md) | Internal IT audit for a retail company, assessing controls against NIST CSF, PCI DSS, and GDPR to identify security and compliance gaps. | Excel, NIST CSF, Risk Register |
+| 2 | [Incident Report Analysis](./Incident_Report_Analysis/Readme.md) | Reviewed and classified a security incident report to determine severity, impact, and appropriate escalation. | Incident Report Templates, NIST 800-61 |
+| 3 | [Incident Handler's Journal](./Incident_Handler's_Journal/Readme.md) | Documented a mock security incident from detection to resolution, following the incident response lifecycle. | Incident Response Lifecycle, Documentation |
+| 4 | [Vulnerability Assessment Report](./VulnerabilityAssessmentReport/Readme.md) | Assessed a system for vulnerabilities, prioritized findings by risk, and recommended remediation steps. | Vulnerability Scanning, Risk Prioritization |
+| 5 | [Linux File Permissions](./Linux_File_Permission/Readme.md) | Applied and audited Linux file permissions to enforce least privilege on a simulated system. | Linux CLI, chmod/chown |
+| 6 | [Automate Cybersecurity Tasks with Python](./AutomateCyberSecurityTaskWithPython/Readme.md) | Wrote Python scripts to automate a repetitive security task, reducing manual effort and human error. | Python |
 
 *(Click any project name for the full write-up, screenshots, and files.)*
 
 ---
 
+##  Let's Connect
 
-## 📬 Let's Connect
+I'm always excited to connect with fellow enthusiasts, security learners, mentors, and professionals. If you have questions about my projects, want to discuss cybersecurity concepts, or just want to say hello, feel free to reach out!
 
-I'm actively seeking opportunities in cybersecurity, including roles supporting public sector and government security missions. Feel free to reach out!
+ [LinkedIn](www.linkedin.com/in/sabafatimamin)
+ 
+ [Email](sabaf2tima@gmail.com)
+
+*Thanks for stopping by!*
